@@ -1,0 +1,49 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<SanPham>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="row">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title mb-4">QUẢN LÝ SẢN PHẢM</h5>
+                <a href="@Url.Action("ThemSanPham","Admin")">+ Thêm</a>
+                <div class="list-group-item">
+                    <div class="table-responsive">
+                        <table class="table center-aligned-table">
+                            <thead>
+                                <tr>
+                                    <th style="line-height:18px;" class="border-bottom-0">Tên sản phẩm</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Số lượng</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Giá bán</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Hãng</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Chức năng</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var SanPham in Model)
+                                {
+                                    <tr>
+                                        <td style="line-height:18px;">@SanPham.TenSP</td>
+                                        <td style="line-height:18px;">@SanPham.Soluongton Cái</td>
+                                        <td style="line-height:18px;">@string.Format("{0:0,0}", SanPham.GiaBan) VNĐ</td>
+                                        <td style="line-height:18px;">@SanPham.Hang.TenHang</td>
+                                        <td style="line-height:18px;"><a href="@Url.Action("SuaSanPham", "Admin",new {id = SanPham.MaSP })">Sửa</a>-<a href="@Url.Action("ChiTietAdmin", "Home",new {id = SanPham.MaSP })">Chi Tiết</a>-<a href="@Url.Action("xoasanpham","Admin", new { id = SanPham.MaSP })">Xóa</a></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                &nbsp;
+                <div style=" padding: 10px; float: left; font-size: 20px;">
+                    @Html.PagedListPager(Model, page => Url.Action("SanPham", new { page = page }))
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

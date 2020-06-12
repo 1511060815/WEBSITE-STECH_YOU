@@ -1,0 +1,74 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<DonDatHang>
+
+
+@if (ViewBag.ListDonHangTotal > 0)
+{
+    <table class="table center-aligned-table" style="margin-bottom: unset">
+        <thead>
+            <tr>
+                <th style="line-height:18px;" class="border-bottom-0">Mã đơn hàng</th>
+                <th style="line-height:18px;" class="border-bottom-0">Phương thức</th>
+                <th style="line-height:18px;" class="border-bottom-0">Tổng tiền</th>
+                <th style="line-height:18px;" class="border-bottom-0">Ngày đặt</th>
+                <th style="line-height:18px;" class="border-bottom-0">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var DonDatHang in Model)
+            {
+                <tr>
+                    <td style="line-height:18px;">@DonDatHang.MaDH</td>
+                    <td style="line-height:18px;">
+                        @if (DonDatHang.PhuongThuc == 1)
+                        {
+                            <span>Thanh toán bằng số dư</span>
+                        }
+                        @if (DonDatHang.PhuongThuc == 2)
+                        {
+                            <span>Thanh toán khi nhận hàng</span>
+                        }
+                        @if (DonDatHang.PhuongThuc == 3)
+                        {
+                            <span>Thanh toán bằng Paypal</span>
+                        }
+                    </td>
+                    <td style="line-height:18px;">@string.Format("{0:0,0}", DonDatHang.DaThanhToan) VNĐ</td>
+                    <td style="line-height:18px;">@DonDatHang.NgayDat</td>
+                    <td style="line-height:18px;">
+                        <a class="btn btn-success pr-1" href="@Url.Action("ChiTietDonHang", "GioHang",new {id = DonDatHang.MaDH })">Chi Tiết</a>
+                        @if (DonDatHang.TinhTrang == 1)
+                        {
+                            <a class="btn btn-danger" href="@Url.Action("xoasanpham","GioHang", new { id = DonDatHang.MaDH })">Hủy</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <table class="table center-aligned-table" style="margin-bottom: unset;">
+        <thead>
+            <tr>
+                <th>
+                </th>
+            </tr>
+        </thead>
+        <thead>
+            <tr>
+                <td style=" padding: 10px; float: left; font-size: 20px; border: unset; margin-bottom: unset;">
+                    @Html.PagedListPager(Model, page => Url.Action("QuanLyDonHang", new { page = page }))
+                </td>
+            </tr>
+        </thead>
+    </table>
+} else
+{
+    <div class="text-center p-5" style="font-size:16px">Hiện chưa có đơn hàng nào.</div>
+}
+
+<style>
+    .pagination{
+        margin-bottom: unset;
+    }
+</style>

@@ -1,0 +1,42 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<Tintuc>
+@{
+    ViewBag.Title = "LienHe";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="col-12 grid-margin">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title mb-4">Ý KIẾN KHÁCH HÀNG</h5>
+            <a href="@Url.Action("ThemTinTuc","Admin")">+ Thêm</a>
+            <div class="list-group-item">
+                <div class="table-responsive">
+                    <table class="table center-aligned-table" style="line-height:10px">
+                        <thead>
+                            <tr>
+                                <th style="line-height:18px;" class="border-bottom-0">Tiêu đề</th>
+                                <th style="line-height:18px;" class="border-bottom-0">Chức Năng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var Tintuc in Model)
+                            {
+                                <tr>
+                                    <td style="line-height:18px;">@Tintuc.TieuDe</td>
+                                    <td style="line-height:18px;"><a href="@Url.Action("TinTucAdmin", "Home",new {id = Tintuc.MaTinTuc })">Chi Tiết</a>-<a href="@Url.Action("xoatintuc","Admin", new { id = Tintuc.MaTinTuc })">Xóa</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            &nbsp;
+            <div style=" padding: 10px; float: left; font-size: 20px;">
+                @Html.PagedListPager(Model, page => Url.Action("Tintuc", new { page = page }))
+            </div>
+        </div>
+    </div>
+</div>
+

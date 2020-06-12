@@ -1,0 +1,47 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<ChiTietDDH>
+
+@{
+    ViewBag.Title = "ChiTietDDH";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="row">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title mb-4">QUẢN LÝ ĐƠN ĐẶT HÀNG</h5>
+                <div class="list-group-item">
+                    <div class="table-responsive">
+                        <table class="table center-aligned-table">
+                            <thead>
+                                <tr>
+                                    <th style="line-height:18px;" class="border-bottom-0">Tên Sản phẩm</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Số lượng</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Đơn giá</th>
+                                    <th style="line-height:18px;" class="border-bottom-0">Chức năng</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var ChiTietDDH in Model)
+                                {
+                                <tr>
+                                    <td style="line-height:18px;">@ChiTietDDH.SanPham.TenSP</td>
+                                    <td style="line-height:18px;">@ChiTietDDH.Soluong</td>
+                                    <td style="line-height:18px;">@string.Format("{0:0,0}", ChiTietDDH.Dongia) VNĐ</td>
+                                    <td style="line-height:18px;"><a href="@Url.Action("DonDatHang","Admin")">Trở về</a></td>
+                                </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                &nbsp;
+                <div style=" padding: 10px; float: left; font-size: 20px;">
+                    @Html.PagedListPager(Model, page => Url.Action("ChiTietDDH", new { page = page }))
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

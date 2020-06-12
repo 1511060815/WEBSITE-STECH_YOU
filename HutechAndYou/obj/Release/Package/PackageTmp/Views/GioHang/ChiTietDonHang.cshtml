@@ -1,0 +1,142 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<ChiTietDDH>
+
+@{
+    ViewBag.Title = "ChiTietDonHang";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+
+<div class="carousel-inner">
+    <div class="item active">
+        <img src="~/Content/images/banner3.png" style="width:100%; height: 150px" alt="First slide">
+        <div class="carousel-caption">
+            <h1>GIỎ HÀNG CỦA BẠN</h1>
+        </div>
+    </div>
+</div>
+
+<section class="about-block">
+    <div class="container">
+        <div class="row">
+            <div class="container">
+                <ul class="nav nav-tabs">
+                    <li id="chitietdonhangactive_1" class="chitietdonhangactive active"><a class="chitietdonhang" id="1" style="cursor:pointer">Chi tiết đơn hàng</a></li>
+                    <li id="chitietdonhangactive_2" class="chitietdonhangactive"><a class="chitietdonhang" id="2" style="cursor:pointer">Danh sách sản phẩm</a></li>
+                    <li><a class="btn btn-primary" href="@Url.Action("QuanLyDonHang","GioHang")">Trở về</a></li>
+                </ul>
+                <div class="list-group-item" style="border-top: unset; padding: 30px !important" id="chitietdonhang">
+                    <div style="padding-bottom:5px;"><span style="color:red">Mã đơn hàng:</span>&nbsp; @ViewBag.MaDonHang</div>
+                    <div style="padding-bottom:5px;"><span style="color:red">Thanh toán:</span>&nbsp; @ViewBag.ThanhToan</div>
+                    <div style="padding-bottom:5px;">
+                        <span style="color:red">Tình trạng:</span>&nbsp;
+                        @if (ViewBag.TinhTrang == 1)
+                        {
+                            <span>Chờ xác nhận</span>
+                        }
+                        @if (ViewBag.TinhTrang == 2)
+                        {
+                            <span>Đã xác nhận</span>
+                        }
+                        @if (ViewBag.TinhTrang == 3)
+                        {
+                            <span>Đang giao hàng</span>
+                        }
+                        @if (ViewBag.TinhTrang == 4)
+                        {
+                            <span>Đã nhận</span>
+                        }
+                        @if (ViewBag.TinhTrang == -1)
+                        {
+                            <span>Đã hủy</span>
+                        }
+                    </div>
+                    <div style="padding-bottom:5px;">
+                        <span style="color:red">Phương thức:</span>&nbsp;
+                        @if (ViewBag.PhuongThuc == 1)
+                        {
+                            <span>Thanh toán bằng số dư</span>
+                        }
+                        @if (ViewBag.PhuongThuc == 2)
+                        {
+                            <span>Thanh toán khi nhận hàng</span>
+                        }
+                        @if (ViewBag.PhuongThuc == 3)
+                        {
+                            <span>Thanh toán bằng Paypal</span>
+                        }
+                    </div>
+                    <div><span style="color:red">Ngày Đặt:</span>&nbsp; @ViewBag.NgayDat</div>
+                </div>
+                <div class="list-group-item hide-display" style="border-top: unset" id="danhsachdonhang">
+                    <table class="table center-aligned-table" style="margin-bottom: unset">
+                        <thead>
+                            <tr>
+                                <th style="line-height:18px;" class="border-bottom-0">Tên Sản phẩm</th>
+                                <th style="line-height:18px;" class="border-bottom-0">Minh Họa</th>
+                                <th style="line-height:18px;" class="border-bottom-0">Số lượng</th>
+                                <th style="line-height:18px;" class="border-bottom-0">Đơn giá</th>
+                                @*<th style="line-height:18px;" class="border-bottom-0">Chức năng</th>*@
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var ChiTietDDH in Model)
+                            {
+                                <tr>
+                                    <td style="line-height:18px;"><a href="/Home/ChiTiet/@ChiTietDDH.MaSP" style="cursor:pointer">@ChiTietDDH.SanPham.TenSP</a></td>
+                                    <td style="line-height:18px;"><a href="/Home/ChiTiet/@ChiTietDDH.MaSP" style="cursor:pointer"><img alt="image" class="img-responsive" src="~/Hinh Anh/SanPham/@ChiTietDDH.SanPham.AnhMH" style="width:100px"></a></td>
+                                    <td style="line-height:18px;">@ChiTietDDH.Soluong</td>
+                                    <td style="line-height:18px;">@string.Format("{0:0,0}", ChiTietDDH.Dongia) VNĐ</td>
+                                    @*<td style="line-height:18px;"><a class="btn btn-primary" href="@Url.Action("QuanLyDonHang","GioHang")">Trở về</a></td>*@
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <div class="clearfix"></div>
+                    <table class="table center-aligned-table" style="margin-bottom: unset;" style="margin-bottom: unset;">
+                        <thead>
+                            <tr>
+                                <th>
+                                </th>
+                            </tr>
+                        </thead>
+                        <thead>
+                            <tr>
+                                <td style=" padding: 10px; float: left; font-size: 20px; border:unset">
+                                    @Html.PagedListPager(Model, page => Url.Action("ChiTietDonHang", new { page = page }))
+                                </td>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .pagination {
+        margin-bottom: unset;
+    }
+
+    .hide-display{
+        display:none !important;
+    }
+</style>
+
+<script>
+    $('.chitietdonhang').on('click', function () {
+        var id = $(this).attr('id');
+        $(".chitietdonhangactive").removeClass('active');
+        $("#chitietdonhangactive_" + id).addClass('active');
+        if (id == 1) {
+            $('#chitietdonhang').removeClass('hide-display');
+            $('#danhsachdonhang').addClass('hide-display');
+        }
+        else {
+            $('#danhsachdonhang').removeClass('hide-display');
+            $('#chitietdonhang').addClass('hide-display');
+        }
+    })
+</script>

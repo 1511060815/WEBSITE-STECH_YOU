@@ -1,0 +1,925 @@
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\PagedList.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\PagedList.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Desktop\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\PagedList.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\PagedList.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojAssemblyReference.cache
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+C:\Users\hoang\Desktop\Stech&You\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoang\Desktop\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojAssemblyReference.cache
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojAssemblyReference.cache
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+C:\Users\hoang\Desktop\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojAssemblyReference.cache
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CoreCompileInputs.cache
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+D:\Bakup\Stech and You Update DACN\Update\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojAssemblyReference.cache
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\PayPal.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\PayPal.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Win32.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\netstandard.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.AppContext.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.Concurrent.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.NonGeneric.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.Specialized.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.EventBasedAsync.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.TypeConverter.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Console.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Data.Common.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Contracts.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Debug.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.FileVersionInfo.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Process.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.StackTrace.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Tools.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.TraceSource.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Tracing.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Drawing.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Dynamic.Runtime.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Globalization.Calendars.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Globalization.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Globalization.Extensions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.Compression.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.Compression.ZipFile.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.DriveInfo.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.Watcher.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.IsolatedStorage.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.MemoryMappedFiles.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.Pipes.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.UnmanagedMemoryStream.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.Expressions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.Parallel.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.Queryable.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Http.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.NameResolution.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.NetworkInformation.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Ping.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Requests.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Security.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Sockets.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.WebHeaderCollection.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.WebSockets.Client.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.WebSockets.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ObjectModel.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Reflection.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Reflection.Extensions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Reflection.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Resources.Reader.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Resources.ResourceManager.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Resources.Writer.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Extensions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Handles.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.InteropServices.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Numerics.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Formatters.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Json.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Xml.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Claims.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Algorithms.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Csp.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Encoding.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.X509Certificates.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Principal.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.SecureString.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encoding.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encoding.Extensions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.RegularExpressions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Overlapped.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.Parallel.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Thread.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.ThreadPool.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Timer.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.ReaderWriter.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XDocument.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XmlDocument.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XmlSerializer.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XPath.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XPath.XDocument.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Primitives.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Buffers.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Memory.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Numerics.Vectors.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encodings.Web.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Json.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.Extensions.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ValueTuple.dll
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Primitives.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Buffers.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Memory.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Numerics.Vectors.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encodings.Web.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Json.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.Extensions.xml
+D:\BIZ4\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ValueTuple.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\ApplicationInsights.config
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll.config
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\HutechAndYou.pdb
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.exe.config
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csc.rsp
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.exe.config
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\csi.rsp
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.AppContext.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Console.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.Process.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Compression.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.IO.Pipes.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Claims.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Threading.Thread.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.ValueTuple.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.exe.config
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\vbc.rsp
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Win32.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\netstandard.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.AppContext.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.Concurrent.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.NonGeneric.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Collections.Specialized.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ComponentModel.TypeConverter.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Console.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Data.Common.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Contracts.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Debug.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Process.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.StackTrace.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Tools.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.TraceSource.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Diagnostics.Tracing.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Drawing.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Dynamic.Runtime.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Globalization.Calendars.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Globalization.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Globalization.Extensions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.Compression.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.Compression.ZipFile.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.FileSystem.Watcher.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.IsolatedStorage.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.MemoryMappedFiles.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.Pipes.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.Expressions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.Parallel.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Linq.Queryable.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Http.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.NameResolution.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.NetworkInformation.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Ping.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Requests.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Security.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.Sockets.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.WebHeaderCollection.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.WebSockets.Client.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Net.WebSockets.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ObjectModel.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Reflection.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Reflection.Extensions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Reflection.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Resources.Reader.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Resources.ResourceManager.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Resources.Writer.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Extensions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Handles.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.InteropServices.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Numerics.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Formatters.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Json.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.Serialization.Xml.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Claims.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Algorithms.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Csp.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Encoding.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.Principal.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Security.SecureString.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encoding.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encoding.Extensions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.RegularExpressions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Overlapped.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.Parallel.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Thread.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.ThreadPool.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Timer.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.ReaderWriter.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XDocument.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XmlDocument.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XmlSerializer.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XPath.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Xml.XPath.XDocument.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Primitives.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\PayPal.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Buffers.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Memory.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Numerics.Vectors.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encodings.Web.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Json.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.Extensions.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ValueTuple.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\WebGrease.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.Extensions.Primitives.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Newtonsoft.Json.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\PagedList.Mvc.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\PayPal.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Buffers.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Memory.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Numerics.Vectors.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Encodings.Web.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Text.Json.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Threading.Tasks.Extensions.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.ValueTuple.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Helpers.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Mvc.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Optimization.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.Razor.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\System.Web.WebPages.Razor.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Antlr3.Runtime.pdb
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.ApplicationInsights.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\bin\Microsoft.AI.Web.xml
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csprojAssemblyReference.cache
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.csproj.CopyComplete
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.dll
+E:\Project\Project Study\Stech&You2\HutechAndYou\HutechAndYou\obj\Debug\HutechAndYou.pdb

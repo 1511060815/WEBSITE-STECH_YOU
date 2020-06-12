@@ -1,0 +1,12 @@
+﻿@model IEnumerable<HutechAndYou.Models.Hang>
+
+<div class="list-group" style="font-size:18px">
+    @foreach (var item in Model)
+    {
+                <p>
+                    <a style="font-size:12px;padding-left:15px" href="@Url.Action("SPTheoHang", "Home",new {id = item.MaHang})">
+                        @item.TenHang
+                    </a>
+                </p>     
+    }
+</div>

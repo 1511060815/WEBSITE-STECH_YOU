@@ -1,0 +1,120 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<Tintuc>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<div id="myCarousel1" class="carousel slide" data-ride="carousel">
+
+
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel1" data-slide-to="1"></li>
+        <li data-target="#myCarousel1" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="~/Hinh Anh/Gioi Thieu/msivip.jpg" style="width:100%; height: 550px" alt="First slide">
+            <div class="carousel-caption">
+                <h1>ĐẲNG CẤP GIẢI TRÍ</h1>
+                <h2>thiết kế hầm hộ dành cho game thủ di động</h2>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Hinh Anh/Gioi Thieu/vanphong.jpg" style="width:100%; height: 550px" alt="Second slide">
+            <div class="carousel-caption">
+                <h1>CHUYÊN VĂN PHÒNG</h1>
+                <h2>đẹp kinh tế, nhỏ nhẹ</h2>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Hinh Anh/Gioi Thieu/camung.jpg" style="width:100%; height: 550px" alt="Third slide">
+            <div class="carousel-caption">
+                <h1>TIỆN LỢI</h1>
+                <h2>gần như một máy tính bảng cỡ đại</h2>
+            </div>
+        </div>
+
+    </div>
+    <a class="left carousel-control" href="#myCarousel1" data-slide="prev"> <img src="~/Content/images/icons/left-arrow-hover.png" alt="left"></a>
+    <a class="right carousel-control" href="#myCarousel1" data-slide="next"><img src="~/Content/images/icons/right-arrow-hover.png" alt="left"></a>
+
+</div>
+<div class="clearfix"></div>
+
+<section class="resort-overview-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-right">
+                <div class="side-A">
+                    <div class="product-thumb">
+                        <div class="image">
+                            <a><img src="~/Hinh Anh/Gioi Thieu/CNV-Acer-Spin3-3439-500x500.jpg" class="img-responsive" alt="image"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="side-B">
+                    <div class="product-desc-side">
+                        <h3><a>KHU TRẢI NGHIỆM LAPTOP</a></h3>
+                        <p>STECH luôn nâng cấp và cải thiện khu trải nghiệm để bạn có một lựa chọn tốt nhất theo nhu cầu cũng như theo giá tiền mà bạn mong muốn.</p>
+                        <div class="links"><a href="@Url.Action("KhuTraiNghiem","Home")">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="col-md-6 col-sm-12 col-xs-12 remove-padd-left">
+                <div class="side-A">
+                    <div class="product-desc-side">
+                        <h3><a>Chọn mua laptop đúng cấu hình</a></h3>
+                        <p>Hướng dẫn cách chọn mua laptop tốt nhất chi tiết từ a-z mua laptop đúng theo nhu cầu sử dụng cấu hình.</p>
+                        <div class="links"><a href="http://vforum.vn/diendan/showthread.php?55653-Huong-dan-cach-chon-mua-laptop-tot-nhat-chi-tiet-tu-a-z">Read more</a></div>
+                    </div>
+                </div>
+
+                <div class="side-B">
+                    <div class="product-thumb txt-rgt">
+                        <div class="image">
+                            <a class="arrow-left"><img src="~/Hinh Anh/Gioi Thieu/lenovo-laptop-legion-y520-15-front.png" class="img-responsive" alt="imaga"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+
+        </div>
+    </div>
+</section>
+
+<section class="blog-block">
+    <div class="container">
+        @foreach (var Tintuc in Model)
+        {
+            <div class="row offspace-45">
+                <div class="view-set-block">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="event-blog-image">
+                            <img alt="image" class="img-responsive" src="~/Hinh Anh/Gioi Thieu/@Tintuc.AnhTinTuc">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 side-in-image">
+                        <div class="event-blog-details">
+                            <h4><a href="@Tintuc.Link">@Tintuc.TieuDe</a></h4>
+                            <p>@Tintuc.NoiDung</p>
+                            <p>
+                                @Tintuc.Noidung2
+                            </p>
+                            <p>@Tintuc.Noidung3</p>
+                            <a class="btn btn-default" href="@Tintuc.Link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        <div class="pager">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+    </div>
+    </div>
+</section>
+<div class="clearfix"></div>

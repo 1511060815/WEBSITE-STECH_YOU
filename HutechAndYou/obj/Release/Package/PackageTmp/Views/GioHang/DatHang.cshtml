@@ -1,0 +1,199 @@
+﻿@using HutechAndYou.Models
+@model List<GioHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+@{
+    KhachHang kh = (KhachHang)Session["TaiKhoan"];
+}
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
+                <div class="login100-form validate-form flex-sb flex-w">
+                    <span style="color:red" class="login100-form-title p-b-32">
+                        XÁC nhận đơn hàng
+                    </span>
+
+                    <span class="txt1 p-b-11">
+                        Tên khách hàng
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" value="@kh.HoTen" readonly>
+                        <span class="focus-input100"></span>
+                    </div>
+                    <span class="txt1 p-b-11">
+                        Số điện thoại
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" value="@kh.DienThoai" readonly>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                        Ngày đặt hàng
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" value="@DateTime.Now.ToShortDateString()" readonly>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                        Địa chỉ
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-12" data-validate="Password is required">
+                        <input class="input100" value="@kh.DiaChi" readonly>
+                        <span class="focus-input100"></span>
+                    </div>
+                    <span class="txt1 p-b-11">
+                        Phương thức thanh toán
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-12" data-validate="Password is required">
+                        <select id="cbbbthanhtoan" name="cbb" class="input100">
+                            <option id="cbbbthanhtoan_1" value="1" selected>Thanh toán bằng số dư
+                            <option id="cbbbthanhtoan_2" value="2">Thanh toán khi nhận hàng
+                            <option id="cbbbthanhtoan_3" value="3">Thanh toán bằng Paypal
+                            <option id="cbbbthanhtoan_4" value="4">Thanh toán bằng tài khoản ngân hàng
+                        </select>
+
+                        <div id="paypalhaha" class="d-none pt-3">
+                            <span class="focus-input100"></span>
+                            <div id="paypal-button-container" style="text-align:center"></div>
+                            <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+                            <script>
+                                // Render the PayPal button
+                                paypal.Button.render({
+                                    // Set your environment
+                                    env: 'sandbox', // sandbox | production
+
+                                    // Specify the style of the button
+                                    style: {
+                                        layout: 'vertical',  // horizontal | vertical
+                                        size: 'medium',    // medium | large | responsive
+                                        shape: 'rect',      // pill | rect
+                                        color: 'gold'       // gold | blue | silver | white | black
+                                    },
+
+                                    // Specify allowed and disallowed funding sources
+                                    //
+                                    // Options:
+                                    // - paypal.FUNDING.CARD
+                                    // - paypal.FUNDING.CREDIT
+                                    // - paypal.FUNDING.ELV
+                                    funding: {
+                                        allowed: [
+                                            paypal.FUNDING.CARD,
+                                            paypal.FUNDING.CREDIT
+                                        ],
+                                        disallowed: []
+                                    },
+
+                                    // Enable Pay Now checkout flow (optional)
+                                    commit: true,
+
+                                    // PayPal Client IDs - replace with your own
+                                    // Create a PayPal app: https://developer.paypal.com/developer/applications/create
+                                    client: {
+                                        sandbox: 'AZDxjDScFpQtjWTOUtWKbyN_bDt4OgqaF4eYXlewfBP4-8aqX3PiV8e1GWU6liB2CUXlkA59kJXE7M6R',
+                                        production: '<insert production client id>'
+                                    },
+
+                                    payment: function (data, actions) {
+                                        return actions.payment.create({
+                                            payment: {
+                                                transactions: [
+                                                    {
+                                                        amount: {
+                                                            total: parseInt('@ViewBag.USD'),
+                                                            currency: 'USD'
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        });
+                                    },
+
+                                    onAuthorize: function (data, actions) {
+                                        return actions.payment.execute()
+                                            .then(function () {
+                                                $('#btnDatHang').prop('disabled', false);
+                                                $('#btnDatHang').click();
+                                            });
+                                    }
+                                }, '#paypal-button-container');
+                            </script>
+                        </div>
+                    </div>
+                    <span id="ttdonhang1" class="txt1 p-b-11">
+                        Thông tin đơn hàng
+                    </span>
+                    <div id="ttdonhang3" style="margin:unset !important; padding-bottom:unset !important" class="wrap-input100 validate-input d-none" data-validate="Username is required">
+                        <input class="input100" style="color:red" value="Số cần thanh toán: @string.Format("{0:0,0}", @ViewBag.TongTien) VNĐ" readonly>
+                        <input class="input100" style="color:red" value="Chuyển đổi sang usd: @string.Format("{0:0,0}", @ViewBag.USD) USD" readonly>
+                        <span class="focus-input100"></span>
+                    </div>
+                    <div id="ttdonhang2" class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" style="color:red" value="Số cần thanh toán: @string.Format("{0:0,0}", @ViewBag.TongTien) VNĐ" readonly>
+                        <input class="input100" style="color:red" value="Chuyển đổi sang usd: @string.Format("{0:0,0}", @ViewBag.USD) USD" readonly>
+                        <input class="input100" style="color:red" value="Số dư tài khoản: @string.Format("{0:0,0}", @ViewBag.DT) VNĐ" readonly>
+                        <input class="input100" style="color:red" value="Số tiền còn lại: @string.Format("{0:0,0}", @ViewBag.SoDu) VNĐ" readonly>
+                        <span class="focus-input100"></span>
+                    </div>
+                    <div class="flex-sb-m w-full p-b-48">
+                        <div style="color:red" class="contact100-form-checkbox">
+                            @ViewData["Loi"]
+                        </div>
+
+                        <div>
+                            <a href="@Url.Action("Index","Login")" class="txt3">
+                                Đăng nhập?
+                            </a>
+                        </div>
+                    </div>
+
+                    <div style="width:50%;float:left" class="container-login100-form-btn">
+                        <input id="btnDatHang" type="submit" style="float:right;" class="login100-form-btn" value="Đặt Hàng" />
+                    </div>
+                    <div class="login100-form-btn" style="width:100px;float:right">
+                        <a href="@Url.Action("GioHangCuaBan","GioHang")">
+                            <h6 style="color:white">GIỎ HÀNG</h6>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    $('#cbbbthanhtoan').on('change', function () {
+        var id = $(this).val();
+        if (id == 1) {
+            $('#ttdonhang2').removeClass('d-none');
+            $('#ttdonhang1').removeClass('d-none');
+            $('#ttdonhang3').addClass('d-none');
+        }
+        else {
+            $('#ttdonhang1').addClass('d-none');
+            $('#ttdonhang2').addClass('d-none');
+            $('#ttdonhang3').removeClass('d-none');
+        }
+        if (id == 3) {
+            $('#paypalhaha').removeClass('d-none');
+            $('#paypalhaha').removeClass('d-none');
+            $('#btnDatHang').prop('disabled', true);
+
+        }
+        else {
+            $('#paypalhaha').addClass('d-none');
+            $('#paypalhaha').addClass('d-none');
+            $('#btnDatHang').prop('disabled', false);
+        }
+    })
+
+</script>

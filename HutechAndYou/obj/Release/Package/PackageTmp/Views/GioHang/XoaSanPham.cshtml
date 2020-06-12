@@ -1,0 +1,38 @@
+﻿@model HutechAndYou.Models.DonDatHang
+
+@{
+    ViewBag.Title = "XoaSanPham";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<section class="about-block">
+    <div class="container">
+        <div class="row">
+            <div class="list-group-item">
+                <table class="table center-aligned-table">
+                    <thead>
+                        <tr>
+                            <th style="color:red">BẠN có muốn hủy đơn hàng mã @ViewBag.ddh không ?</th>
+                        </tr>
+                    </thead>
+                </table>
+                <table class="table center-aligned-table">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+                        {
+                            <thead>
+                                <tr>
+                                    <th><a style="float:left;"><input type="submit" class="book-now-btn" value="HỦY" /></a></th>
+                                    <th><a href="@Url.Action("QuanLyDonHang","GioHang")" style="float:right;" class="book-now-btn">TRỞ VỀ</a></th>
+                                </tr>
+                            </thead>
+                        }
+                    }
+                </table>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="clearfix"></div>

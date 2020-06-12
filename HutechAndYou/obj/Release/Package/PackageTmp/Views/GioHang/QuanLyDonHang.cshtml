@@ -1,0 +1,46 @@
+﻿
+
+@{
+    ViewBag.Title = "QuanLyDonHang";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+
+<div class="carousel-inner">
+    <div class="item active">
+        <img src="~/Content/images/banner3.png" style="width:100%; height: 150px" alt="First slide">
+        <div class="carousel-caption">
+            <h1>GIỎ HÀNG CỦA BẠN</h1>
+        </div>
+    </div>
+</div>
+
+<section class="about-block">
+    <div class="container">
+        <div class="row">
+            <div class="container">
+                <ul class="nav nav-tabs">
+                    <li id="kiemtradonhang_1" class="kiemtradonhangactive active"><a class="kiemtradonhang" id="1" style="cursor:pointer">Chờ xác nhận</a></li>
+                    <li id="kiemtradonhang_2" class="kiemtradonhangactive"><a class="kiemtradonhang" id="2" style="cursor:pointer">Đã xác nhận</a></li>
+                    <li id="kiemtradonhang_3" class="kiemtradonhangactive"><a class="kiemtradonhang"  id="3" style="cursor:pointer">Đang giao hàng</a></li>
+                    <li id="kiemtradonhang_4" class="kiemtradonhangactive"><a class="kiemtradonhang" id="4" style="cursor:pointer">Đã nhận</a></li>
+                    <li id="kiemtradonhang_-1" class="kiemtradonhangactive"><a class="kiemtradonhang" id="-1" style="cursor:pointer">Đã hủy</a></li>
+                </ul>
+                <div class="list-group-item" id="hienthicacdonhang" style="border-top: unset;">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="clearfix"></div>
+
+
+<script>
+    $("#hienthicacdonhang").load('/GioHang/ListDonHang?giaidoan=' + 1);
+    $('.kiemtradonhang').on('click', function () {
+        var id = $(this).attr('id');
+        $("#hienthicacdonhang").load('/GioHang/ListDonHang?giaidoan=' + id);
+        $(".kiemtradonhangactive").removeClass('active');
+        $("#kiemtradonhang_" + id).addClass('active');
+    })
+</script>

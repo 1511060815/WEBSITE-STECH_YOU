@@ -1,0 +1,84 @@
+﻿@model HutechAndYou.Models.SanPham
+
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<div class="carousel-inner">
+    <div class="item active">
+        <img src="~/Content/images/banner2.png" style="width:100%; height: 150px" alt="First slide">
+        <div class="carousel-caption">
+            <h1>CHI TIẾT SẢN PHẨM</h1>
+        </div>
+    </div>
+</div>
+<section class="about-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 about-left">
+                <div id="myCarousel1" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel1" data-slide-to="1"></li>
+                        <li data-target="#myCarousel1" data-slide-to="2"></li>
+                        <li data-target="#myCarousel1" data-slide-to="3"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="~/Hinh Anh/SanPham/@Model.AnhMH" style="width:100%;width:500px" alt="First slide">
+                        </div>
+                        <div class="item">
+                            <img src="~/Hinh Anh/SanPham/@Model.AnhMH1" style="width:100%; width:500px" alt="Second slide">
+                        </div>
+                        <div class="item">
+                            <img src="~/Hinh Anh/SanPham/@Model.AnhMH2" style="width:100%;  width:500px" alt="Third slide">
+                        </div>
+                        <div class="item">
+                            <img src="~/Hinh Anh/SanPham/@Model.AnhMH3" style="width:100%;  width:500px" alt="">
+                        </div>
+                    </div>
+                    <a class="left carousel-control" href="#myCarousel1" data-slide="prev"> <img src="~/Content/images/icons/left-arrow-hover.png" alt="left"></a>
+                    <a class="right carousel-control" href="#myCarousel1" data-slide="next"><img src="~/Content/images/icons/right-arrow-hover.png" alt="left"></a>
+                </div>
+            </div>
+            <div class="col-md-5 about-right">
+                <h3>@Model.TenSP</h3>
+                &nbsp;
+                <ul class="list-unstyled list-inline">
+                    <li style="color:red">Hãng: <l style="color:black">@Model.Hang.TenHang</l></li>
+                    <p>
+                    <li style="color:red">Cpu: <l style="color:black">@Model.CPU @Model.LoaiCpu</l></li></p>
+                    <p>
+                    <li style="color:red">Ram: <l style="color:black">@Model.Ram</l></li>
+                    </p>
+                    <p>
+                    <li style="color:red">Card: <l style="color:black">@Model.Crad</l></li>
+                    </p>
+                    <p>
+                    <li style="color:red">Ổ Cứng: <l style="color:black">@Model.OCung</l></li>
+                    </p>
+                    <p>
+                    <li style="color:red">Kích thước màn hình: <l style="color:black">@Model.ManHinh</l></li>
+                    </p>
+                    <p>
+                    <li style="color:red">Số lượng: <l style="color:black">@Model.Soluongton</l> cái</li>
+                    </p>
+                </ul>
+                <span>Giá: @string.Format("{0:0,0}", Model.GiaBan) VNĐ</span>
+                <span><div id="datmua"><a class="book-now-btn" href="@Url.Action("SanPham","Admin")">SẢN PHẨM</a></div></span>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="clearfix"></div>
+&nbsp;
+<section class="blog-block">
+    <div class="container">
+        <ul class="list-unstyled list-inline" style="border: solid 2px #dedede;padding:5px">
+            <l style="color:red">NỘI DUNG: </l>
+            @Model.NoiDung
+        </ul>
+    </div>
+</section>
+<div class="clearfix"></div>

@@ -1,0 +1,96 @@
+﻿@model HutechAndYou.Models.Tintuc
+
+@{
+    ViewBag.Title = "ThemSanPham";
+    Layout = "~/Views/Shared/_LayoutAdminAdd.cshtml";
+}
+
+@using (Html.BeginForm("ThemTinTuc", "Admin", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
+                <form class="login100-form validate-form flex-sb flex-w">
+                    <span class="login100-form-title p-b-32">
+                        THÊM TIN TỨC
+                    </span>
+
+                    <span class="txt1 p-b-11">
+                        Tiêu đề
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" type="text" name="tensp">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                        Ảnh tin tức
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input type="file" name="fileUpload">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                       Nội dung thứ 1
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" type="text" name="noidung">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                        Nội dung thứ 2
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" type="text" name="noidung1">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                        Nội dung thứ 3
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" type="text" name="noidung2">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <span class="txt1 p-b-11">
+                        Link liên kết
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-36" data-validate="Username is required">
+                        <input class="input100" type="text" name="link">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <div class="flex-sb-m w-full p-b-48">
+                        <div style="color:red" class="contact100-form-checkbox">
+                            @ViewData["Loi"]
+                        </div>
+
+                        <div>
+                            <a href="@Url.Action("Index","Admin")" class="txt3">
+                                Admin?
+                            </a>
+                        </div>
+                    </div>
+
+                    <div style="width:50%;float:left" class="container-login100-form-btn">
+                        <button class="login100-form-btn">
+                            TẠO MỚI
+                        </button>
+                    </div>
+                    <div class="login100-form-btn" style="width:100px;float:right">
+                        <a href="@Url.Action("TinTuc","Admin")">
+                            <h6 style="color:white">TIN TỨC</h6>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+
+

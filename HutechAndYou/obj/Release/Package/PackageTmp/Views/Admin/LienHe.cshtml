@@ -1,0 +1,42 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<Lienhe>
+@{
+    ViewBag.Title = "LienHe";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="col-12 grid-margin">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title mb-4">Ý KIẾN KHÁCH HÀNG</h5>
+            <div class="list-group-item">
+            <div class="table-responsive">
+                <table class="table center-aligned-table" style="line-height:10px">
+                    <thead>
+                        <tr>
+                            <th style="line-height:18px;"  class="border-bottom-0">Tên</th>
+                            <th style="line-height:18px;" class="border-bottom-0">Email</th>
+                            <th style="line-height:18px;;"  class="border-bottom-0">Nội dung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var Lienhe in Model)
+                        {
+                            <tr>
+                                <td style="line-height:18px;">@Lienhe.TenKH</td>
+                                <td style="line-height:18px;">@Lienhe.Emai</td>
+                                <td style="line-height:18px;">@Lienhe.NoiDung</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            </div>
+            &nbsp;
+            <div style=" padding: 10px; float: left; font-size: 20px;">
+                @Html.PagedListPager(Model, page => Url.Action("LienHe", new { page = page }))
+            </div>
+        </div>       
+    </div>    
+</div>
