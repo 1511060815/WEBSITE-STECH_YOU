@@ -4,7 +4,7 @@ Phạm Hồng Hoàng (Nhóm Trưởng)
 Phan Thanh Tuấn 1611060492  
 Nguyễn Ngọc Mỹ Duyên  
 
-Phân Chia Công Việc 
+PHÂN CHIA CÔNG VIỆC
 
 Mô hình usecase: Tuấn
 Mô hình database: Hoàng
