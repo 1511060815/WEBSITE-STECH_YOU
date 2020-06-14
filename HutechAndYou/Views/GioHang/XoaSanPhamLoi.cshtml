@@ -1,0 +1,32 @@
+﻿@model HutechAndYou.Models.DonDatHang
+
+@{
+    ViewBag.Title = "XoaSanPham";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<section class="about-block">
+    <div class="container">
+        <div class="row">
+            <div class="list-group-item">
+                <table class="table center-aligned-table">
+                    <thead>
+                        <tr>
+                            <th style="color:red">ĐƠN HÀNG (@ViewBag.ddh) ĐANG ĐƯỢC XỬ LÝ, ĐƠN HÀNG KHÔNG HỦY ĐƯỢC, VUI LÒNG LIÊN HỆ VỚI CHÚNG TÔI !</th>
+                        </tr>
+                    </thead>
+                </table>
+                <table class="table center-aligned-table">
+                            <thead>
+                                <tr>
+                                    <th><a href="@Url.Action("Contact","Home")" style="float:left;" class="book-now-btn">LIÊN HỆ</a></th>
+                                    <th><a href="@Url.Action("QuanLyDonHang","GioHang")" style="float:right;" class="book-now-btn">TRỞ VỀ</a></th>
+                                </tr>
+                            </thead>
+                </table>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="clearfix"></div>

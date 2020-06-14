@@ -1,0 +1,82 @@
+﻿@using HutechAndYou.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<SanPham>
+@{
+    ViewBag.Title = "Shop";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+<div class="carousel-inner">
+    <div class="item active">
+        <img src="~/Content/images/banner4.png" style="width:100%; height: 150px" alt="First slide">
+        <div class="carousel-caption">
+            <h1>MUA HÀNG</h1>
+        </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+<script>
+    hangf = -1;
+    giaf = -1;
+    cpuf = -1;
+</script>
+@Html.Action("BoLoc", "Home")
+
+@if (ViewBag.spLocCount > 0)
+{
+    <div class="container">
+        <div class="pager">
+            @Html.PagedListPager(Model, page => Url.Action("Search", new { searchTerm = ViewBag.SearchTerm, page = page }))
+        </div>
+        <div class="Lap">
+            <ul>
+                @foreach (var SanPham in Model)
+                {
+                    <li>
+                        <a href="@Url.Action("ChiTiet", "Home", new {id = SanPham.MaSP })">
+                            <img class="Lap-Anh" alt="@SanPham.TenSP" src="~/Hinh Anh/SanPham/@SanPham.AnhMH" width="100%" />
+                            <div class="Lap-TenLap">
+                                @SanPham.TenSP
+                            </div>
+                            <div class="Lap-ThongTin">
+                                <span style="font-size:14px"><span style="color:red">CPU: </span>@SanPham.CPU @SanPham.LoaiCpu</span>
+                                <p><span style="font-size:14px"><span style="color:red">RAM: </span>@SanPham.Ram</span></p>
+                                <p><span style="font-size:14px"><span style="color:red">CRAD: </span>@SanPham.CPU @SanPham.Crad</span></p>
+                                <p><span style="font-size:14px"><span style="color:red">SỐ LƯỢNG: </span>@SanPham.Soluongton cái</span></p>
+                                @if (SanPham.GiamGia > 0 && SanPham.GiamGia != null)
+                                {
+                                    <p><span style="font-size:14px"><span style="color:red">GIÁ GỐC: </span>@string.Format("{0:0,0}", SanPham.GiaBan) VNĐ</span></p>
+                                }
+                            </div>
+                        </a>
+                        <a href="@Url.Action("ChiTiet", "Home",new {id = SanPham.MaSP })">
+                            <div class="Lap-Gia" style="float:right">
+                                @if (SanPham.GiamGia > 0 && SanPham.GiamGia != null)
+                                {
+                                    <a class="submit-btn" href="@Url.Action("ThemGioHang","GioHang",new {@iMaSP = @SanPham.MaSP, @strURL = Request.Url.ToString()})">-@SanPham.GiamGia% OFF @string.Format("{0:0,0}", SanPham.GiaBan - (SanPham.GiaBan * SanPham.GiamGia / 100)) VNĐ</a>
+                                }
+                                else
+                                {
+                                    <a class="submit-btn" href="@Url.Action("ThemGioHang","GioHang",new {@iMaSP = @SanPham.MaSP, @strURL = Request.Url.ToString()})">@string.Format("{0:0,0}", SanPham.GiaBan) VNĐ</a>
+                                }
+                            </div>
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+        <div class="clearfix"></div>
+        <div class="pager">
+            @Html.PagedListPager(Model, page => Url.Action("Search", new {searchTerm = ViewBag.SearchTerm, page = page }))
+        </div>
+    </div>
+}
+else
+{
+    <div class="container text-center" style="font-size:16px">
+        <div class="row">
+            <br />
+            <div class="list-group-item">Không tìm thấy sản phẩm nào</div>
+        </div>
+    </div>
+}
+<div class="clearfix"></div>

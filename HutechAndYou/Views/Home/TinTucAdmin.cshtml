@@ -1,0 +1,44 @@
+﻿
+@model HutechAndYou.Models.Tintuc
+
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<div class="carousel-inner">
+    <div class="item active">
+        <img src="~/Content/images/banner2.png" style="width:100%; height: 150px" alt="First slide">
+        <div class="carousel-caption">
+            <h1>CHI TIẾT TIN TỨC</h1>
+        </div>
+    </div>
+</div>
+<section class="blog-block">
+    <div class="container">
+            <div class="row offspace-45">
+                <div class="view-set-block">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="event-blog-image">
+                            <img alt="image" class="img-responsive" src="~/Hinh Anh/Gioi Thieu/@Model.AnhTinTuc">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 side-in-image">
+                        <div class="event-blog-details">
+                            <h4><a href="@Model.Link">@Model.TieuDe</a></h4>
+                            <p>@Model.NoiDung</p>
+                            <p>
+                                @Model.Noidung2
+                            </p>
+                            <p>@Model.Noidung3</p>
+                            <a class="btn btn-default" href="@Model.Link">Read More</a>
+                            <a class="btn btn-default" href="@Url.Action("Tintuc","Admin")">Tin Tức</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</section>
+<div class="clearfix"></div>
+
+

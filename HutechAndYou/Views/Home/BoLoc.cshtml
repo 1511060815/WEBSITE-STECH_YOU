@@ -1,0 +1,63 @@
+﻿
+
+
+    <section class="about-block">
+        <div class="container">
+            <div class="row">
+                <div class="list-group-item">
+                    <table class="table center-aligned-table" style="margin-bottom:unset !important">
+                        <thead>
+                            <tr>
+                                <td>
+                                    <select id="giaSP" class="form-control bodderradius5">
+                                        <option value="-1">-- Chọn Giá --</option>
+                                        <option value="1a10000000">Dưới 10 Triệu</option>
+                                        <option value="10000000a20000000">10-20 Triệu</option>
+                                        <option value="20000000a30000000">20-30 Triệu</option>
+                                        <option value="20000000a30000000">20-30 Triệu</option>
+                                        <option value="30000000a40000000">30-40 Triệu</option>
+                                        <option value="40000000a10000000000">Trên 40 Triệu</option>
+                                    </select>
+                                </td>
+                                <td>
+                                    <select id="HangSP" class="form-control bodderradius5">
+                                        <option value="-1">-- Chọn Hãng --</option>
+                                        @Html.Action("HangSanXuatV2", "Home")
+                                    </select>
+                                </td>
+                                <td>
+                                    <select id="cpuSP" class="form-control bodderradius5">
+                                        <option value="-1">-- Chọn CPU --</option>
+                                        <option value="3">Cpu i3</option>
+                                        <option value="5">Cpu i5</option>
+                                        <option value="7">Cpu i7</option>
+                                    </select>
+                                </td>
+                                <td>
+                                    <button id="btnLocTimKiem" class="btn btn-success">Lọc tìm kiếm</button>
+                                </td>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+    <style>
+        .bodderradius5{
+            border-radius: 5px !important;
+        }
+    </style>
+
+<script>
+    $('#giaSP').val(giaf);
+    $('#HangSP').val(hangf);
+    $('#cpuSP').val(cpuf);
+
+    $('#btnLocTimKiem').on('click', function () {
+        var gia = $('#giaSP').val();
+        var hang = $('#HangSP').val();
+        var cpu = $('#cpuSP').val();
+        window.location.replace("/Home/MuaHangLoc?hang=" + hang + "&gia=" + gia + "&cpu=" + cpu);
+    })
+</script>
