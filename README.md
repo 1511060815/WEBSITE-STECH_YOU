@@ -5,7 +5,6 @@ Phạm Hồng Hoàng 1511060815 (Nhóm Trưởng)
 Nguyễn Ngọc Mỹ Duyên 1611060447
 
 
-<<<<<<< HEAD
 PHÂN CHIA CÔNG VIỆC
 =======
 Phân Chia Công Việc 
@@ -22,6 +21,6 @@ Quy trình triển khai và các công cụ để phát triển ứng dụng
 + Video call và chat, share màn hình: messenger (Setup chụp màn hình gọi 3 người)
 + Công cụ quản lý timeline công việc: Trello (Hoàng setup)
 + Công cụ hỗ trợ cùng làm việc: Teamview (Setup chụp màn hình)
-+ Quản lý mã người dự án, lưu trữ mã nguồn dự á: Github (Tuấn setup)
++ Quản lý mã người dự án, lưu trữ mã nguồn dự án: Github (Tuấn setup)
 + Nhóm công cụ kiểm tra ứng dụng: Selenium (Duyên setup)
 + Nhóm triển khai phần mềm: Somee (Hoàng setup)
