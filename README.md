@@ -1,8 +1,9 @@
 # WEBSITE-STECH_YOU
 
-Phạm Hồng Hoàng (Nhóm Trưởng)
 Phan Thanh Tuấn 1611060492  
-Nguyễn Ngọc Mỹ Duyên  
+Phạm Hồng Hoàng 1511060815 (Nhóm Trưởng)
+Nguyễn Ngọc Mỹ Duyên 1611060447
+
 
 <<<<<<< HEAD
 PHÂN CHIA CÔNG VIỆC
